@@ -1,0 +1,38 @@
+ {
+  "users": [
+    {
+      "name": {
+        "firstName": "Ali",
+        "lastName": "Ibrahim"
+      },
+      "roomNumber": 1,
+      "bookingDateFrom": "2022-02-12",
+      "bookingDateTo": "2022-02-18",
+      "paid": true,
+      "attended": true
+    },
+    {
+      "name": {
+        "firstName": "Turki",
+        "lastName": "Fahad"
+      },
+      "roomNumber": 2,
+      "bookingDateFrom": "2022-02-12",
+      "bookingDateTo": "2022-02-22",
+      "paid": true,
+      "attended": false
+    },
+    {
+      "name": {
+        "firstName": "Nasser",
+        "lastName": "Naif"
+      },
+      "roomNumber": 3,
+      "bookingDateFrom": "2022-02-22",
+      "bookingDateTo": "2022-02-25",
+      "paid": false,
+      "attended": true
+    }
+  ]
+}
+

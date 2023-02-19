@@ -1,0 +1,25 @@
+{
+  "book": [
+    {
+      "bookID": 1,
+      "bookName": "JS",
+      "isAvilable": true,
+      "bookBorrower": "Saad",
+      "price": 15
+    },
+    {
+      "bookID": 2,
+      "bookName": "Java",
+      "isAvilable": false,
+      "bookBorrower": "Fares",
+      "price": 15
+    },
+    {
+      "bookID": 3,
+      "bookName": "Python",
+      "isAvilable": false,
+      "bookBorrower": "Ahmed",
+      "price": 15
+    }
+  ]
+}
